@@ -5,4 +5,4 @@
 <a href='https://discord.gg/nass'>![Discord](https://discordapp.com/api/guilds/1088294968541589546/widget.png?style=banner3)</a>
 
 # Store
-<a href='https://store.nass.dev'>![Store](https://r2.fivemanage.com/AD7ScnQfPAVUbetkzcjeA/banner(1).jpg)</a>
+<a href='https://store.nass.dev'>![Store](https://r2.fivemanage.com/AD7ScnQfPAVUbetkzcjeA/logopng.png)</a>
